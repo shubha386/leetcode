@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1031-add-to-array-form-of-integer](https://github.com/shubha386/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1031-add-to-array-form-of-integer](https://github.com/shubha386/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
