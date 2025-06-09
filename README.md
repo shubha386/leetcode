@@ -28,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubha386/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubha386/leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/shubha386/leetcode/tree/master/0125-valid-palindrome) |
 ## Matrix
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/shubha386/leetcode/tree/master/1791-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shubha386/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
