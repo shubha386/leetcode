@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubha386/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubha386/leetcode/tree/master/0027-remove-element) |
+| [0898-transpose-matrix](https://github.com/shubha386/leetcode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/shubha386/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/shubha386/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -32,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/shubha386/leetcode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/shubha386/leetcode/tree/master/1791-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shubha386/leetcode/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/shubha386/leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
