@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shubha386/leetcode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/shubha386/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -39,8 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shubha386/leetcode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/shubha386/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shubha386/leetcode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/shubha386/leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
