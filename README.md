@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/shubha386/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/shubha386/leetcode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/shubha386/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shubha386/leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/shubha386/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/shubha386/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
