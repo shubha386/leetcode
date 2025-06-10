@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/shubha386/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shubha386/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2486-most-frequent-even-element](https://github.com/shubha386/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3723-sum-of-good-numbers](https://github.com/shubha386/leetcode/tree/master/3723-sum-of-good-numbers) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shubha386/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2486-most-frequent-even-element](https://github.com/shubha386/leetcode/tree/master/2486-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shubha386/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2486-most-frequent-even-element](https://github.com/shubha386/leetcode/tree/master/2486-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
