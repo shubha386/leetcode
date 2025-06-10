@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubha386/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubha386/leetcode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
 | [0898-transpose-matrix](https://github.com/shubha386/leetcode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/shubha386/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shubha386/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Math
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shubha386/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Two Pointers
@@ -57,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shubha386/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
