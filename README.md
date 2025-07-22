@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shubha386/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/shubha386/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shubha386/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubha386/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0898-transpose-matrix](https://github.com/shubha386/leetcode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/shubha386/leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shubha386/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubha386/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shubha386/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/shubha386/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/shubha386/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/shubha386/leetcode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/shubha386/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -78,12 +81,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shubha386/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shubha386/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubha386/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/shubha386/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shubha386/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shubha386/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
