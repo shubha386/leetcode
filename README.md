@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubha386/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0898-transpose-matrix](https://github.com/shubha386/leetcode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/shubha386/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubha386/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/shubha386/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shubha386/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shubha386/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubha386/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubha386/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/shubha386/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shubha386/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2486-most-frequent-even-element](https://github.com/shubha386/leetcode/tree/master/2486-most-frequent-even-element) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shubha386/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shubha386/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shubha386/leetcode/tree/master/0268-missing-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubha386/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubha386/leetcode/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubha386/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
